@@ -5,6 +5,7 @@
 # ARTEX
 
 **Autonomous penetration testing that keeps its receipts.**
+**THIS IN NOT MINE-I ONLY REPOST FOR BACKUP ONLINE, AND FOR YOU**
 
 (upstream: [Autumn-27/ARTEX](https://github.com/Autumn-27), AGPL-3.0)
 
